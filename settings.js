@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'blueheart',
   author: 'Bot',
-  botName: "Knight Bot",
+  botName: "blueheart Bot",
   botOwner: 'blue heart bot', // Your name
-  ownerNumber: '255689628066', //Your number
+  ownerNumber: '255683150538', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
